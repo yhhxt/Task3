@@ -1,7 +1,23 @@
-{"the_group_of_BigData":[
-{"name": "dengshuai" ,"sex" : "man" ,"class" :"unknow"},
-{"name": "luohu" ,"sex" : "man" ,"class" :"unknow"},
-{"name": "zhangbo" ,"sex" : "man" ,"class" :"Software Engineer 18102"},
-{"name": "zhuhui" ,"sex" : "man" ,"class" :"Software Engineer 18102"},
-{"name": "xutao" ,"sex" : "man" ,"class" :"Computer Science And Technology"}
-]}
+{
+"student":
+[
+ {
+ "number":"1",
+ "name":"1",
+ "sex":"1",
+ "age":"1"
+ },
+ {
+ "number":"2",
+ "name":"2",
+ "sex":"2",
+ "age":"2"
+ },
+ {
+ "number":"3",
+ "name":"3",
+ "sex":"3",
+ "age":"3"
+ }
+ ]
+ }
